@@ -1,1 +1,1 @@
-<h1>Tempalte Django + Tailwind</h1>
+<h1>Template Django + Tailwind</h1>
